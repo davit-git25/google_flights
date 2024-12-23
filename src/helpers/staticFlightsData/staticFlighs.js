@@ -1,0 +1,42 @@
+export const staticFlightsData = [
+    {
+        id: 1,
+        flightName: "London",
+        flightPrice: "USD 222.73",
+        flightTime: "14hr 45min",
+        date: "Feb 7",
+        returnDate: "Feb 13",
+        stop: "1 stop",
+        image: "/country-images/london.jpg",
+    },
+    {
+        id: 2,
+        flightName: "Los Angeles",
+        flightPrice: "USD 754.55",
+        flightTime: "18hr 30min",
+        date: "Mar 31",
+        returnDate: "Apr 6",
+        stop: "1 stop",
+        image: "/country-images/los-angeles.jpg",
+    },
+    {
+        id: 3,
+        flightName: "Athens",
+        flightPrice: "USD 193.74",
+        flightTime: "2hr 55min",
+        date: "Jan 17",
+        returnDate: "Jan 26",
+        stop: "Nonstop",
+        image: "/country-images/athens.jpg",
+    },
+    {
+        id: 4,
+        flightName: "Paris",
+        flightPrice: "USD 218.21",
+        flightTime: "5h 30min",
+        date: "Feb 3",
+        returnDate: "Feb 12",
+        stop: "Nonstop",
+        image: "/country-images/paris.jpg",
+    }
+]
